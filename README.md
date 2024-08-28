@@ -16,7 +16,7 @@
 	<h2>Course Catalog Description:</h2>
 	<p>In this course, I will be able to cover the creation of Web pages and sites using HTML, CSS, Javascript and graphical applications. Networked multimedia distribution technologies are also explored. The design of effective Websites including page layout, user interface design, graphic design, content flow and site structure as well as management of Web site resources including intranet management and design considerations are addressed. I will be able to design and create a major Website with multiple pages and cross-linked structures. <strong>Prerequisites</strong>: [none] <strong>Credit</strong>: 2-2-3 Semester Hours</p>
 	<h2>Course Outcomes:</h2>
-	<p>I will complete some tasks such as,</p>
+	<p>I will complete some tasks such as</p>
 	<ul>
 		<li>Recognize HTML, CSS, and JavaScript markup and code.</li>
 		<li>Select the proper mark-up tags or code to achieve a particular result.</li>
