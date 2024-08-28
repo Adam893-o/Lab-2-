@@ -11,7 +11,7 @@
 	<p>Adam Sharifeh asharifeh@hawk.iit.edu</p>
 	<h1>Professor:</h1>
 	<p>Daniel Kriglstein</p>
-	<h2>Lecture Days, Time and Place:<h/2>
+	<h2>Lecture Days, Time and Place:</h2>
 	<p>Tuesday 6:00pm to 9:05pm Online</p>
 	<h2>Course Catalog Description:</h2>
 	<p>In this course, I will be able to cover the creation of Web pages and sites using HTML, CSS, Javascript and graphical applications. Networked multimedia distribution technologies are also explored. The design of effective Websites including page layout, user interface design, graphic design, content flow and site structure as well as management of Web site resources including intranet management and design considerations are addressed. I will be able to design and create a major Website with multiple pages and cross-linked structures. <strong>Prerequisites</strong>: [none] <strong>Credit</strong>: 2-2-3 Semester Hours</p>
